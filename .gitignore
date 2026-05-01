@@ -1,4 +1,5 @@
 *
 !.gitignore
-!a2_260408.py
+!main.py
+!README.md
 !benchmark_rl_vs_nonrl.py

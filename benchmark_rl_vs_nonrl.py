@@ -3,7 +3,7 @@ import random
 import time
 from dataclasses import dataclass
 
-import a2_260408 as base
+import main as base
 
 
 @dataclass
